@@ -1,0 +1,5 @@
+Repository for track uncertainty calculation in Lambda_c analysis
+
+GetTrackingSyst.C calculates track uncertainty variations
+
+ComputeUncertainty.C calculates uncertainty combining TPC track cut uncertainty with ITS-TPC matching efficiency
